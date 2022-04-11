@@ -251,3 +251,5 @@ const addOne = addingFactory(1);
 
 console.log(addOne(31))
 console.log(addOne(99))
+
+//end
